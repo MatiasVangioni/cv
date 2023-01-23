@@ -1,0 +1,21 @@
+#Para la presentación final es importante:
+.Los encabezados tienen que ser diferentes para demostrar que entendí que la idea era customizarlo. 
+.Respetar el IDENTADO y mantener la prolijidad para que el documento esté ordenado.
+.Modificar el atributo "LANG" que sería el lenguaje de 
+EN(ingles) a ES (Español) (o en el idioma que tenga que programarlo)
+.El elemento SRC sería la ruta de la imagen a cargar y por eso se debe poner siempre.
+.El elemento ALT es importante y no debo olvidar ponerlo porque existe la posibilidad de que la imagen no cargue,
+por lo tanto debería dejar un texto en caso de que dicha imagen no pueda ser visible.
+.El formulario en caso de realizar uno, debería estar ordenado de arriba hacia abajo, y no todo en una línea como en el ejemplo.
+.Incluir archivos de audio y de video como aprendí en el segundo módulo sumado al elemento controls que sirve en ambos casos para 
+manejar el reproductor de ambos.
+.Determinar el tamaño del reproductor (dimensiones)
+.Recordar que cuando pongo un video de youtube en el documento, debo modificar el link, ejemplo:
+-link original: https://www.youtube.com/watch?v=wfusZNj-jic
+-link modificado para el documento: https://www.youtube.com/embed/wfusZNj-jic
+-De VITAL IMPORTANCIA tener en cuenta que solo puede haber un H1 por página, debido a que es el TITULO MAS IMPORTANTE, puede haber
+2 h2 o demas, pero solo 1 H1
+-intentar que en lo posible los elementos no tengan todas las mismas propiedades sino que variar un poco.
+
+
+
