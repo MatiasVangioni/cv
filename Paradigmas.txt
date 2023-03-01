@@ -1,0 +1,43 @@
+Clasificación por paradigmas
+En general, la mayoría de paradigmas son variantes de los dos tipos principales de programación, imperativa y declarativa. 
+En la programación imperativa se describe paso a paso un conjunto de instrucciones que deben ejecutarse para variar el estado del programa y hallar la solución, es decir,
+un algoritmo en el que se describen los pasos necesarios para solucionar el problema.
+
+En la programación declarativa las sentencias que se utilizan lo que hacen es describir el problema que se quiere solucionar; se programa diciendo lo que se quiere resolver
+a nivel de usuario, pero no las instrucciones necesarias para solucionarlo. Esto último se realizará mediante mecanismos internos de inferencia de información a partir 
+de la descripción realizada.
+
+A continuación se describen algunas de las distintas variantes de paradigmas de programación:
+
+Programación imperativa o por procedimientos: es el más usado en general, se basa en dar instrucciones al ordenador de como hacer las cosas en forma de algoritmos,
+en lugar de describir el problema o la solución. Las recetas de cocina y las listas de revisión de procesos, a pesar de no ser programas de computadora,
+son también conceptos familiares similares en estilo a la programación imperativa; donde cada paso es una instrucción. Es la forma de programación más usada y la más antigua,
+el ejemplo principal es el lenguaje de máquina. Ejemplos de lenguajes puros de este paradigma serían el C, BASIC o Pascal.
+
+Programación orientada a objetos: está basada en el imperativo, pero encapsula elementos denominados objetos que incluyen tanto variables como funciones. 
+Está representado por C# o Java entre otros, pero el más representativo sería el Smalltalk que está completamente orientado a objetos.
+
+Programación dirigida por eventos: la programación dirigida por eventos es un paradigma de programación en el que tanto la estructura como la ejecución de los programas 
+van determinados por los sucesos que ocurran en el sistema, definidos por el usuario o que ellos mismos provoquen.
+
+Programación declarativa: está basada en describir el problema declarando propiedades y reglas que deben cumplirse, en lugar de instrucciones. 
+Hay lenguajes para la programación funcional, la programación lógica, o la combinación lógico-funcional. La solución es obtenida mediante mecanismos internos de control,
+sin especificar exactamente cómo encontrarla (tan solo se le indica a la computadora qué es lo que se desea obtener o qué es lo que se está buscando). 
+No existen asignaciones destructivas, y las variables son utilizadas con transparencia referencial. Los lenguajes declarativos tienen la ventaja de ser razonados matemáticamente
+lo que permite el uso de mecanismos matemáticos para optimizar el rendimiento de los programas.8​ Unos de los primeros lenguajes funcionales fueron Lisp y Prolog.
+
+Programación funcional: basada en la definición los predicados y es de corte más matemático, está representado por Scheme (una variante de Lisp) o Haskell. 
+Python también representa este paradigma.9​
+
+Programación lógica: basado en la definición de relaciones lógicas, está representado por Prolog.
+
+Programación con restricciones: similar a la lógica usando ecuaciones. Casi todos los lenguajes son variantes del Prolog.
+
+Programación multiparadigma: es el uso de dos o más paradigmas dentro de un programa. El lenguaje Lisp se considera multiparadigma. 
+Al igual que Python o PHP que son orientados a objetos, reflexivos, imperativos y funcionales.9​ Según lo describe Bjarne Stroustrup, esos lenguajes 
+permiten crear programas usando más de un estilo de programación. El objetivo en el diseño de estos lenguajes es permitir a los programadores utilizar el mejor paradigma 
+para cada trabajo, admitiendo que ninguno resuelve todos los problemas de la forma más fácil y eficiente posible. 
+Por ejemplo, lenguajes de programación como C++, Genie, Delphi, Visual Basic o D10​ combinan el paradigma imperativo con la orientación a objetos. 
+Incluso existen lenguajes multiparadigma que permiten la mezcla de forma natural, como en el caso de Oz, que tiene subconjuntos (particularidad de los lenguajes lógicos), 
+y otras características propias de lenguajes de programación funcional y de orientación a objetos. 
+Otro ejemplo son los lenguajes como Scheme de paradigma funcional o Prolog (paradigma lógico), que cuentan con estructuras repetitivas, propias del paradigma imperativo.

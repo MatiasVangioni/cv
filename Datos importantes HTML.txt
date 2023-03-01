@@ -56,3 +56,17 @@ smart tv.
 -Cuando trabajamos con un framework es importante buscar documentacion sobre la version especifica q estamos usando.
 -Siempre que realice un commit debo dejar un comentario pequeño pero que referencie los cambios realizados en git.
 -el sitio web de git tiene un manual de usuario con todos los comandos del bot.
+-a los "comits" siempre se los referencia con los 7 primeros caracteres dentro de la aplicacion.
+
+Razonamiento logico y tecnicas de programacion:
+. Evitar duplicar codigo fuente.
+. Intentar optimizar mi estilo de programado (lograr en menos pasos el mismo resultado que queria) 
+. Para poder empezar a programar, es decir, aprender un nuevo lenguaje de programacion, debo saber diferir si es un lenguaje interpretado o lenguaje compilado.
+. El interpretador es un programa que es capaz de analizar e interpretar dichos programas. Traduce el programa desde su descripcion a medida que se va 
+ejecutando el codigo fuente. Ej: navegadores web
+. El compilador produce un ejecutable con lenguaje de maquina. 
+
+Diferencias:
+. En el caso de los compilados, si nosotros cometimos un error al programar, nos va a tirar un error, nos dirá que tenemos un error en la linea especifica del error
+y nos pedira una solucion para volver a ejecutarse. En el caso de los lenguajes interpretados, se empezará a interpretar hasta que el programa crashee.
+. Es importante destacar que tenemos la obligacion de testear mucho el programa antes de finalizarlo o lanzarlo.

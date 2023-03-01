@@ -1,0 +1,55 @@
+h1{text-align: center;
+   color: orange;
+   text-decoration: underline;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+
+}
+
+ol{
+    color: blue;
+    border: 5px solid rgb(248, 2, 2);
+    font-size:x-large;
+
+}
+
+div{
+    color: black;
+    font-size: larger;
+    
+}
+
+h2{
+    font-size:xx-large;
+    color: orangered;
+    text-decoration: underline;
+}
+
+h3{
+    font-size:xx-large;
+    color: orangered;
+    text-decoration: underline;
+}
+
+h4{
+    font-size:xx-large;
+    color: orangered;
+    text-decoration: underline;
+}
+
+h5{
+    font-size:xx-large;
+    color: orangered;
+    text-decoration: underline;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}

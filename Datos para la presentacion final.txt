@@ -18,6 +18,7 @@ manejar el reproductor de ambos.
 -intentar que en lo posible los elementos no tengan todas las mismas propiedades sino que variar un poco.
 -Para los trabajos que realice, debo explicarles a los clientes que  el hosting debe mantenerse pagando mensualmente a la empresa de hosting.
 -debo registrar un dominio a mi nombre en nic.ar
+-Siempre que utilice github, o demas similares, utilizar su documentacion, del sitio web, y tambien generar documentacion propia, un readme, etc.
 
 
 
