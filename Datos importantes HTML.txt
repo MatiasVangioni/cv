@@ -54,3 +54,5 @@ smart tv.
 -El viewport es para definir cuales son las dimensiones que queremos que tome dependiendo el dispositivo desde que se ingrese al sitio.
 -Siempre que se haga un sitio responsive, que el usuario tenga que deslizar hacia abajo y arriba, nunca en horizontal. esp empeora la experiencia del usuario.
 -Cuando trabajamos con un framework es importante buscar documentacion sobre la version especifica q estamos usando.
+-Siempre que realice un commit debo dejar un comentario pequeño pero que referencie los cambios realizados en git.
+-el sitio web de git tiene un manual de usuario con todos los comandos del bot.

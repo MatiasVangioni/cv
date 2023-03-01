@@ -16,6 +16,9 @@ manejar el reproductor de ambos.
 -De VITAL IMPORTANCIA tener en cuenta que solo puede haber un H1 por página, debido a que es el TITULO MAS IMPORTANTE, puede haber
 2 h2 o demas, pero solo 1 H1
 -intentar que en lo posible los elementos no tengan todas las mismas propiedades sino que variar un poco.
+-Para los trabajos que realice, debo explicarles a los clientes que  el hosting debe mantenerse pagando mensualmente a la empresa de hosting.
+-debo registrar un dominio a mi nombre en nic.ar
+
 
 
 
